@@ -15,7 +15,7 @@ Admin panel for managing users, products, and orders
 Messaging system for user queries and feedback
 
 🔐 Admin Login
-Username: ahmed
+Username: admin
 
 Password: 111
 
